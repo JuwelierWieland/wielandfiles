@@ -49,10 +49,6 @@
 		"swsid": "12",
 		"topmid": "461",
 	}, {
-		"name": "Festina",
-		"swsid": "49",
-		"topmid": "261",
-	}, {
 		"name": "Boss",
 		"swsid": "14",
 		"topmid": "455",
@@ -73,10 +69,6 @@
 		"swsid": "18",
 		"topmid": "423",
 	}, {
-		"name": "Fossil",
-		"swsid": "22",
-		"topmid": "47",
-	}, {
 		"name": "Casio",
 		"swsid": "20",
 		"topmid": "134",
@@ -84,6 +76,10 @@
 		"name": "Marc by Marc Jacobs",
 		"swsid": "21",
 		"topmid": "415",
+	}, {
+		"name": "Fossil",
+		"swsid": "22",
+		"topmid": "47",
 	}, {
 		"name": "Dugena",
 		"swsid": "23",
@@ -169,5 +165,9 @@
 		"name": "Wieland",
 		"swsid": "46",
 		"topmid": "501",
+	}, {
+		"name": "Festina",
+		"swsid": "49",
+		"topmid": "261",
 	}] 
 }
