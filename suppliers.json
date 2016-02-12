@@ -1,0 +1,173 @@
+{
+	"_description": "This file is the supplier Mapping from TopM to Shopware",
+	"defaults": {
+		"bnregex": ".*"
+	},
+	"suppliers": [{
+		"name": "Flik Flak",
+		"swsid": "2",
+		"topmid": "19",
+	}, {
+		"name": "Trollbeads",
+		"swsid": "3",
+		"topmid": "135",
+	}, {
+		"name": "Quoins",
+		"swsid": "4",
+		"topmid": "468",
+	}, {
+		"name": "Seiko",
+		"swsid": "5",
+		"topmid": "23",
+	}, {
+		"name": "Citizen",
+		"swsid": "6",
+		"topmid": "24",
+	}, {
+		"name": "Daniel Wellington",
+		"swsid": "7",
+		"topmid": "480",
+	}, {
+		"name": "Michael Kors",
+		"swsid": "8",
+		"topmid": "453",
+	}, {
+		"name": "Diesel",
+		"swsid": "9",
+		"topmid": "304",
+	}, {
+		"name": "DKNY",
+		"swsid": "10",
+		"topmid": "298",
+	}, {
+		"name": "Junkers",
+		"swsid": "11",
+		"topmid": "384",
+		"bnregex": "6.*"
+	}, {
+		"name": "Guess",
+		"swsid": "12",
+		"topmid": "461",
+	}, {
+		"name": "Festina",
+		"swsid": "49",
+		"topmid": "261",
+	}, {
+		"name": "Boss",
+		"swsid": "14",
+		"topmid": "455",
+	}, {
+		"name": "Endless Jewelery",
+		"swsid": "15",
+		"topmid": "478",
+	}, {
+		"name": "Swatch",
+		"swsid": "16",
+		"topmid": "19",
+	}, {
+		"name": "Emporio Armani",
+		"swsid": "17",
+		"topmid": "255",
+	}, {
+		"name": "Drachenfels",
+		"swsid": "18",
+		"topmid": "423",
+	}, {
+		"name": "Fossil",
+		"swsid": "22",
+		"topmid": "47",
+	}, {
+		"name": "Casio",
+		"swsid": "20",
+		"topmid": "134",
+	}, {
+		"name": "Marc by Marc Jacobs",
+		"swsid": "21",
+		"topmid": "415",
+	}, {
+		"name": "Dugena",
+		"swsid": "23",
+		"topmid": "25",
+	}, {
+		"name": "GC",
+		"swsid": "24",
+		"topmid": "461",
+	}, {
+		"name": "Zeppelin",
+		"swsid": "26",
+		"topmid": "384",
+		"bnregex": "7.*"
+	}, {
+		"name": "Hamilton",
+		"swsid": "27",
+		"topmid": "456",
+	}, {
+		"name": "Ingersoll",
+		"swsid": "28",
+		"topmid": "472",
+	}, {
+		"name": "Palido",
+		"swsid": "29",
+		"topmid": "459",
+	}, {
+		"name": "Junghans",
+		"swsid": "32",
+		"topmid": "22",
+	}, {
+		"name": "Titan Factory",
+		"swsid": "34",
+		"topmid": "476",
+	}, {
+		"name": "Mondaine",
+		"swsid": "36",
+		"topmid": "375",
+	}, {
+		"name": "Calvin Klein",
+		"swsid": "37",
+		"topmid": "153",
+	}, {
+		"name": "Bering",
+		"swsid": "38",
+		"topmid": "466",
+	}, {
+		"name": "Bruno Soehnle",
+		"swsid": "39",
+		"topmid": "160",
+	}, {
+		"name": "Yana Nesper",
+		"swsid": "40",
+		"topmid": "475",
+	}, {
+		"name": "Leaf",
+		"swsid": "41",
+		"topmid": "479",
+	}, {
+		"name": "Ti Sento",
+		"swsid": "42",
+		"topmid": "447",
+	}, {
+		"name": "Coeur de Lion",
+		"swsid": "43",
+		"topmid": "161",
+	}, {
+		"name": "Pop Pilot",
+		"swsid": "44",
+		"topmid": "169",
+	}, {
+		"name": "Wieland",
+		"swsid": "46",
+		"topmid": "459",
+	}, {
+		"name": "Wieland",
+		"swsid": "46",
+		"topmid": "157",
+	}, {
+		"name": "Wieland",
+		"swsid": "46",
+		"topmid": "104",
+	}, {
+		"name": "Wieland",
+		"swsid": "46",
+		"topmid": "501",
+	}] 
+}
