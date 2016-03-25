@@ -169,5 +169,9 @@
 		"name": "Festina",
 		"swsid": 49,
 		"topmid": 261
+	}, {
+		"name": "Police",
+		"swsid": 50,
+		"topmid": 503
 	}] 
 }
