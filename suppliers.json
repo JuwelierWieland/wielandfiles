@@ -177,5 +177,9 @@
 	}, {	"name": "Roamer",
 		"swsid": 51,
 		"topmid": 502
+		
+	}, {	"name": "Triangel",
+		"swsid": 52,
+		"topmid": 213
 	}] 
 }
