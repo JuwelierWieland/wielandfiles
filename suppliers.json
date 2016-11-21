@@ -185,5 +185,9 @@
 	}, {	"name": "Paul Hewitt",
 		"swsid": 53,
 		"topmid": 509
+	    
+	}, {	"name": "Swiss Military-Hanowa",
+		"swsid": 55,
+		"topmid": 504
 	}] 
 }
